@@ -1,4 +1,4 @@
-Lab #1 - SSRF with blacklist-based input filter
+Lab - SSRF with blacklist-based input filter
 
 Vulnerable feature -  This lab has a stock check feature which fetches data from an internal system. 
 
