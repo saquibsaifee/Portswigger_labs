@@ -1,3 +1,4 @@
+
 Lab: Reflected XSS into HTML context with nothing encoded
 
 Vulnerable feature -  This lab contains a simple reflected cross-site scripting vulnerability in the search functionality. 
